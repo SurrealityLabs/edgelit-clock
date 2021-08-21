@@ -1337,4 +1337,48 @@ Wire Wire Line
 Wire Wire Line
 	6650 12150 6000 12150
 Connection ~ 6000 12150
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6122DB00
+P 8000 3000
+F 0 "H1" H 8100 3046 50  0000 L CNN
+F 1 "MountingHole" H 8100 2955 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965" H 8000 3000 50  0001 C CNN
+F 3 "~" H 8000 3000 50  0001 C CNN
+	1    8000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6122DFBC
+P 8000 3250
+F 0 "H2" H 8100 3296 50  0000 L CNN
+F 1 "MountingHole" H 8100 3205 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965" H 8000 3250 50  0001 C CNN
+F 3 "~" H 8000 3250 50  0001 C CNN
+	1    8000 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6122E128
+P 8000 3500
+F 0 "H3" H 8100 3546 50  0000 L CNN
+F 1 "MountingHole" H 8100 3455 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965" H 8000 3500 50  0001 C CNN
+F 3 "~" H 8000 3500 50  0001 C CNN
+	1    8000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6122E2C7
+P 8000 3750
+F 0 "H4" H 8100 3796 50  0000 L CNN
+F 1 "MountingHole" H 8100 3705 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965" H 8000 3750 50  0001 C CNN
+F 3 "~" H 8000 3750 50  0001 C CNN
+	1    8000 3750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
