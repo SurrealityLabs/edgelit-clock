@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name edgelit-clock)(type KiCad)(uri ${KIPRJMOD}/edgelit-clock.pretty)(options "")(descr ""))
+)
